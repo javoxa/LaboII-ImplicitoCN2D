@@ -1,0 +1,16 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Resultados e imágenes generadas
+resultados/
+*.npy
+*.png
+
+# Archivos de respaldo o utilidades del desarrollador
+contenido_completo.txt
+guardar.sh
+.DS_Store
+.vscode/
+.idea/
