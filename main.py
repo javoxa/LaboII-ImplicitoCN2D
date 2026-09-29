@@ -64,8 +64,6 @@ from visualizador import Visualizador
 #     ejecuta sin ventana y guarda resultados.
 #
 MOSTRAR_EN_VIVO = True
-FACTOR_DT_CN = 2000
-GRAFICAR_CADA_SEGUNDOS = 2
 
 # ------------------------------------------------
 # Guardado de resultados
